@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 108 108">
   <!-- Monochrome interpretation of the original ViveNotes notebook and pen.
        White becomes the Android 13+ themed foreground; black is knocked out. -->
+  <g transform="translate(9.72 9.72) scale(0.82)">
   <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
     <!-- Three stacked pages under a large folded front sheet. -->
     <path stroke-width="2" d="M25 80 Q26 89 37 90 H75 Q87 90 89 78"/>
@@ -8,11 +9,10 @@
     <path stroke-width="3.3" d="M27 20 H73 Q88 20 88 35 V66 Q88 73 82 78 L73 86 H32 Q22 86 22 76 V34 Q22 20 27 20 Z"/>
     <!-- Turned-up bottom-right page corner, characteristic of the reference. -->
     <path stroke-width="2.5" d="M67 85 Q73 82 73 76 Q74 69 80 68 Q86 67 88 63"/>
-    <path stroke-width="1.7" d="M73 86 Q82 85 87 77"/>
     <!-- The three black ring-binder loops. -->
-    <path stroke-width="4.8" d="M19 36 Q17 33 20 32 Q22 31 25 33 L29 34 Q32 36 29 38 Q27 40 24 38 L20 37"/>
-    <path stroke-width="4.8" d="M19 49 Q17 46 20 45 Q22 44 25 46 L29 47 Q32 49 29 51 Q27 53 24 51 L20 50"/>
-    <path stroke-width="4.8" d="M19 62 Q17 59 20 58 Q22 57 25 59 L29 60 Q32 62 29 64 Q27 66 24 64 L20 63"/>
+    <path stroke-width="3" d="M19 36 Q17 33 20 32 Q22 31 25 33 L29 34 Q32 36 29 38 Q27 40 24 38 L20 37"/>
+    <path stroke-width="3" d="M19 49 Q17 46 20 45 Q22 44 25 46 L29 47 Q32 49 29 51 Q27 53 24 51 L20 50"/>
+    <path stroke-width="3" d="M19 62 Q17 59 20 58 Q22 57 25 59 L29 60 Q32 62 29 64 Q27 66 24 64 L20 63"/>
     <!-- Subtle ruled lines and short header line. -->
     <path stroke-width="1.35" d="M46 36 H59 M35 42 H69 M35 50 H69 M35 58 H68 M35 66 H64 M35 74 H56"/>
   </g>
@@ -28,5 +28,6 @@
     <!-- Grip, conical metal nib and the writing point. -->
     <path fill="none" stroke="#000" stroke-width="1.5" d="M57 65 H67 M58.3 69 H65.7"/>
     <path fill="#000" d="M60.5 75.5 L62 81.5 L63.5 75.5 Z"/>
+  </g>
   </g>
 </svg>
